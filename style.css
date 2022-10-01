@@ -1,0 +1,87 @@
+body{
+  font-family: 'Tajawal', sans-serif;
+  color: #4a4a4a;
+}
+.header {
+    background-color: #f5e1f252;
+    padding: 24px;
+    margin-top: -8px;
+    margin-right: -8px;
+    margin-left: -8px;
+    padding-bottom: 22px;
+}
+.header img {
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-top: -27px;
+}
+
+#name {
+  display: inline;
+  font-family: 'Dancing Script', cursive;
+  float: left;
+  margin-top: -21px;
+  margin-left: 10px;
+}
+#name-2{
+  float: right;
+  margin-top: -15px;
+  margin-right: 30px;
+}
+.c-1 {
+    padding: 100px;
+    margin-top: -79px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.c-2 {
+    background-color: #17151652;
+    width: 302px;
+    height: 357px;
+    margin-right: 309px;
+    margin-top: -49px;
+    opacity: 0.3;
+    border-radius: 8%;
+}
+
+.c-3 {
+    background-color: #17151652;
+    width: 302px;
+    height: 357px;
+    opacity: 0.3;
+    border-radius: 8%;
+    margin-top: -360px;
+    margin-right: 767px;
+}
+.c-2 img {
+    width: 101px;
+    margin-right: 98px;
+    margin-top: 31px;
+
+}
+
+.c-2 h2{
+  margin-right: 83px;
+  color: black;
+  opacity: 1;
+}
+
+.c-3 img {
+    width: 75px;
+    margin-right: 121px;
+    margin-top: 55px;
+    opacity: 1;
+}
+
+.c-3 h2{
+  margin-right: 80px;
+  color: black;
+}
+.footer{
+  color: black;
+  margin-top: 102px;
+  text-align: center;
+  opacity: 0.2;
+}
